@@ -1,0 +1,23 @@
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'/Users/davodperez/Desktop/ITSON/ITSON 2/progra 2/NETBEANS_objetosServicio_00000281270_00000282275/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/davodperez/Desktop/ITSON/ITSON 2/progra 2/NETBEANS_objetosServicio_00000281270_00000282275/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'NETBEANS_objetosServicio_00000281270_00000282275 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'NETBEANS_objetosServicio_00000281270_00000282275 1.0-SNAPSHOT API'
