@@ -1,3 +1,4 @@
+package objetosServicio;
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
@@ -7,23 +8,29 @@
  *
  * @author JorgeEG07
  */
+/**
+ * Clase que genera códigos consecutivos con el formato CON-X,
+ * donde X es un número incremental.
+ */
 public class GeneradorCodigosConsecutivos extends GeneradorCodigos{
 
+    /**
+     * Número consecutivo que se incrementa en cada generación de código.
+     */
     protected int consecutivo = 0;
     
-    
     /**
-     * establece CON como el prefijo de los codigos generados en esa clase
-     * 
+     * Constructor que asigna el prefijo "CON".
      */
     public GeneradorCodigosConsecutivos() {
         super("CON"); 
     }
     
     /**
-     * incrementa el consecutivo de este codigo por uno
-     * @param consecutivo valor int que es el numero del codigo
-     * @return regresa el consecutivo ya incrementado como string
+     * Incrementa en 1 el valor del consecutivo.
+     * 
+     * @param consecutivo Valor actual del consecutivo
+     * @return Cadena con el consecutivo incrementado
      */
     public static String incrementarConsecutivo(int consecutivo){
         consecutivo++;  
@@ -31,9 +38,10 @@ public class GeneradorCodigosConsecutivos extends GeneradorCodigos{
     }
     
     /**
-     * verifica que el formato CON-X sea correcto, true si es verdad
-     * @param codigo codigo ingresado por usuario con prefijo y numero
-     * @return booleano que dira si es igual (true) o diferente (false)
+     * Verifica si el código tiene el formato CON-X.
+     * 
+     * @param codigo Código a validar
+     * @return true si coincide con el formato esperado, false en caso contrario
      */
     @Override
     public boolean tieneFormatoValido(String codigo){
@@ -41,11 +49,12 @@ public class GeneradorCodigosConsecutivos extends GeneradorCodigos{
     }
     
     /**
-     *genera codigo con formato CON-X, siendo x el valor consecutivo
-     * @return regresa codigo generado con prefijo, guion y numero consecutivo
+     * Genera un código con el formato CON-X utilizando el consecutivo.
+     * 
+     * @return Código generado con formato CON-X
      */
     @Override 
     public String generarCodigo(){
         return getPrefijo() + "-" + incrementarConsecutivo(consecutivo);
      }
-    }
+}

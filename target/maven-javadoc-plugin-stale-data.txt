@@ -1,0 +1,48 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'C:/Users/jorge/Documents/NetBeansProjects/NetBeans-PR02-Librerias-en-Java-Objetos-Servicio/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jorge/Documents/NetBeansProjects/NetBeans-PR02-Librerias-en-Java-Objetos-Servicio/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'NETBEANS_objetosServicio_00000281270_00000282275 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'NETBEANS_objetosServicio_00000281270_00000282275 1.0-SNAPSHOT API'
+objetosServicio
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\src\main\java\.DS_Store = 1776046766226
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\src\main\java = 1776046766226
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\allclasses-index.html = 1776069414539
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\allpackages-index.html = 1776069414541
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\copy.svg = 1776069414577
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\element-list = 1776069414475
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\help-doc.html = 1776069414572
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\index-all.html = 1776069414561
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\index.html = 1776069414567
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\link.svg = 1776069414579
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\member-search-index.js = 1776069414547
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\module-search-index.js = 1776069414543
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\overview-tree.html = 1776069414525
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\package-search-index.js = 1776069414545
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\script.js = 1776069414576
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\search-page.js = 1776069414583
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\search.html = 1776069414565
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\search.js = 1776069414581
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\stylesheet.css = 1776069414574
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\tag-search-index.js = 1776069414548
+C:\Users\jorge\Documents\NetBeansProjects\NetBeans-PR02-Librerias-en-Java-Objetos-Servicio\target\reports\apidocs\type-search-index.js = 1776069414546
