@@ -36,7 +36,7 @@ public class App {
         System.out.println("¿Es válido 'ALE-1234'? " + gen.tieneFormatoValido("ALE-1234"));
         System.out.println("¿Es válido 'XYZ-123'? " + gen.tieneFormatoValido("XYZ-123"));
         
-        
+        //x
     }
 }
 

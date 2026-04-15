@@ -10,4 +10,5 @@
         <maven.compiler.release>21</maven.compiler.release>
         <exec.mainClass>com.mycompany.netbeans_objetosservicio_00000281270_00000282275.NETBEANS_objetosServicio_00000281270_00000282275</exec.mainClass>
     </properties>
+    <name>objetosServicio_00000281270_00000282275</name>
 </project>
